@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on front-end development.
 - 🤔 I’m looking for help with data structures and algorithms.
 - 💬 Don't ask me about anything 😐
-- 📫 How to reach me: https://www.linkedin.com/in/pipped/
+- 📫 How to reach me: https://www.linkedin.com/in/pipped
